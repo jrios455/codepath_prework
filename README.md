@@ -46,16 +46,17 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+[I used my books I used for my web development course. They were "New Perspectives HTML5 and CSS3: Comprehensive (7thEdition)]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+[Trying to get the buttons tow work properly. I had a little trouble setting up Github and glitch to work together properly. Using a screen recording application and then converting it to a gif was
+new to me. Overall it was not too complicated, and I had a lot of fun with the project.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[How does one become a web developer? Would this part of the job be included in other IT fields like, network administrator?]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[If I had more time on this project, I would polish the game, adding some more features, like, making the secret sequence longer and harder. I would add a more game friendly background.]
 
 
 
