@@ -4,14 +4,11 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="icon" href="https://glitch.com/favicon.ico" />
+	<link rel="stylesheet" href="/style.css" />
+	<script src="script.js" defer></script>
 
     <title>Hello World!</title>
 
-    <!-- import the webpage's stylesheet -->
-    <link rel="stylesheet" href="/style.css" />
-
-    <!-- import the webpage's javascript file -->
-    <script src="/script.js" defer></script>
   </head>
   <body>
     <!-- this is the start of content -->
@@ -25,7 +22,7 @@
       id="startBtn" onclick="startGame()">Start
     </button>
     <button 
-      class="hidden" id="stopBtn" onclick="stopGame()">Stop
+		id="stopBtn" class="hidden" onclick="stopGame()">Stop
     </button>
     
     <div id="gameButtonArea">
