@@ -62,7 +62,7 @@ new to me. Overall it was not too complicated, and I had a lot of fun with the p
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](https://www.dropbox.com/home?preview=video1512738870.mp4)
+[My 5-minute Interview Recording](https://www.dropbox.com/t/NLYo48azjW30x6Q5)
 
 
 ## License
