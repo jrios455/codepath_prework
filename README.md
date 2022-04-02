@@ -62,7 +62,7 @@ new to me. Overall it was not too complicated, and I had a lot of fun with the p
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](C:\Users\User\Documents\Zoom\2022-04-01 20.59.34 Julio Rios's Zoom Meeting)
+[My 5-minute Interview Recording](file:///C:/Users/User/Documents/Zoom/2022-04-01%2020.59.34%20Julio%20Rios's%20Zoom%20Meeting/)
 
 
 ## License
